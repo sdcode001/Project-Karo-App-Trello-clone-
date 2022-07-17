@@ -30,3 +30,14 @@ Cards represent tasks and can hold all the information you need to get the job d
 
 ![main working](https://user-images.githubusercontent.com/92887905/179424215-5480a32d-f9dc-428d-8ee9-82a5f010737e.png)
 
+## Manage tasks with ease
+Cards keep all of the information your team needs organized and in one place. Assign members, add due dates, leave comments, and more.
+
+## Members
+Keep everyone accountable and never have to ask “who’s doing that” by adding members to cards for their projects and tasks.
+
+## Due dates
+Doing and due dates go hand in hand. They're easy to set, hard to miss (with reminders!), and oh-so-satisfying to mark as “done.”
+
+
+
