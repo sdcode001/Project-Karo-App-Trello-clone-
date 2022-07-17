@@ -27,3 +27,6 @@ The different stages of a task. Start as simple as To Do, Doing, or Done—or bu
 
 ## CARDS
 Cards represent tasks and can hold all the information you need to get the job done. As you make progress, move cards across lists to show their status.
+
+![main working](https://user-images.githubusercontent.com/92887905/179424215-5480a32d-f9dc-428d-8ee9-82a5f010737e.png)
+
