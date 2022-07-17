@@ -13,7 +13,7 @@ Project Karo uses Firebase Email authentication. It just need your name, email, 
 Just sign in, create a board, and you’re off! In your profile you have your photo, name, email, phone number and
  you can change photo, phone number, name any time by going to my profile section in the app.
 
-![profile](https://user-images.githubusercontent.com/92887905/179423829-d44f67c1-860c-4815-b6b4-da0ac9639b2e.png)
+![profile](https://user-images.githubusercontent.com/92887905/179424387-4f2132ba-f60b-435b-9bb7-e1145ed72d15.png)
 
 ## BOARDS
 Whatever the project or process, 
