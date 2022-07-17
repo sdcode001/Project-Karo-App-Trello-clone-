@@ -15,4 +15,11 @@ Just sign in, create a board, and you’re off! In your profile you have your ph
 
 ![profile](https://user-images.githubusercontent.com/92887905/179423829-d44f67c1-860c-4815-b6b4-da0ac9639b2e.png)
 
+BOARDS
+Whatever the project or process, 
+boards keep tasks organized and 
+work moving forward.In a glance 
+you can see everything from 
+“things to do” to “aww yeah we did it!”
+
 
