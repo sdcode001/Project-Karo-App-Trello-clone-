@@ -9,3 +9,7 @@ Simple, flexible, and powerful. All it takes are boards, lists, and cards to get
 ![welcome page](https://user-images.githubusercontent.com/92887905/179423749-1f9e6384-e7a0-4753-93cd-79d7159b3510.png)
 
 Project Karo uses Firebase Email authentication. It just need your name, email and phone number to sign up and Just sign in, create a board, and you’re off!
+
+![profile](https://user-images.githubusercontent.com/92887905/179423829-d44f67c1-860c-4815-b6b4-da0ac9639b2e.png)
+
+
