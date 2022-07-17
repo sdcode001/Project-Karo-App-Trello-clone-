@@ -5,3 +5,5 @@ Project Karo is the visual tool that empowers your team to manage any type of pr
 
 ## A productivity powerhouse
 Simple, flexible, and powerful. All it takes are boards, lists, and cards to get a clear view of who’s doing what and what needs to get done.
+
+![welcome page](https://user-images.githubusercontent.com/92887905/179423749-1f9e6384-e7a0-4753-93cd-79d7159b3510.png)
