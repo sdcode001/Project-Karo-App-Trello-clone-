@@ -52,7 +52,7 @@ Doing and due dates go hand in hand. They're easy to set, hard to miss (with rem
 #### Android Notification Manager
 
 ## Future Plan
-
+Adding new features like file upload, extending notification feature, sharing google maps location, checklists for tasks, realtime group chatting, realtime video call functionality and many more. 
 
 
 
