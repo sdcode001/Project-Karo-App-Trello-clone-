@@ -42,15 +42,17 @@ Doing and due dates go hand in hand. They're easy to set, hard to miss (with rem
 ![card](https://user-images.githubusercontent.com/92887905/179424684-8d452e64-867d-4ce2-8921-6367192c2e04.png)
 
 ## Tech Stack
+#### Android Studio
+#### Kotlin
+#### Xml
+#### FireBase FireStore 
+#### FireBase Storage
+#### FireBase Authentication
+#### FireBase Cloud Messaging Api
+#### Android Notification Manager
 
-### Android Studio
-### Kotlin
-### Xml
-### FireBase FireStore 
-### FireBase Storage
-### FireBase Authentication
-### FireBase Cloud Messaging Api
-### Android Notification Manager
+## Future Plan
+
 
 
 
