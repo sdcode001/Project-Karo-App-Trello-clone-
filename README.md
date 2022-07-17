@@ -7,3 +7,5 @@ Project Karo is the visual tool that empowers your team to manage any type of pr
 Simple, flexible, and powerful. All it takes are boards, lists, and cards to get a clear view of who’s doing what and what needs to get done.
 
 ![welcome page](https://user-images.githubusercontent.com/92887905/179423749-1f9e6384-e7a0-4753-93cd-79d7159b3510.png)
+
+Project Karo uses Firebase Email authentication. It just need your name, email and phone number to sign up and Just sign in, create a board, and you’re off!
