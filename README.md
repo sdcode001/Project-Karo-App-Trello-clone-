@@ -23,7 +23,7 @@ you can see everything from
 “things to do” to “aww yeah we did it!”
 
 ## LISTS
-The different stages of a task. Start as simple as To Do, Doing, or Done—or build a workflow custom fit to your team’s needs. There’s no wrong way to Trello.
+The different stages of a task. Start as simple as To Do, Doing, or Done—or build a workflow custom fit to your team’s needs. There’s no wrong way to Project Karo.
 
 ## CARDS
 Cards represent tasks and can hold all the information you need to get the job done. As you make progress, move cards across lists to show their status.
